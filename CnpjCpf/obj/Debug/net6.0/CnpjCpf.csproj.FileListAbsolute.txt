@@ -1,0 +1,15 @@
+C:\Users\gabid\Documents\Repositorios\Meus\Verificar-Cpf-e-Cnpj\Verificar-Cpf-e-Cnpj\CnpjCpf\bin\Debug\net6.0\CnpjCpf.exe
+C:\Users\gabid\Documents\Repositorios\Meus\Verificar-Cpf-e-Cnpj\Verificar-Cpf-e-Cnpj\CnpjCpf\bin\Debug\net6.0\CnpjCpf.deps.json
+C:\Users\gabid\Documents\Repositorios\Meus\Verificar-Cpf-e-Cnpj\Verificar-Cpf-e-Cnpj\CnpjCpf\bin\Debug\net6.0\CnpjCpf.runtimeconfig.json
+C:\Users\gabid\Documents\Repositorios\Meus\Verificar-Cpf-e-Cnpj\Verificar-Cpf-e-Cnpj\CnpjCpf\bin\Debug\net6.0\CnpjCpf.dll
+C:\Users\gabid\Documents\Repositorios\Meus\Verificar-Cpf-e-Cnpj\Verificar-Cpf-e-Cnpj\CnpjCpf\bin\Debug\net6.0\CnpjCpf.pdb
+C:\Users\gabid\Documents\Repositorios\Meus\Verificar-Cpf-e-Cnpj\Verificar-Cpf-e-Cnpj\CnpjCpf\obj\Debug\net6.0\CnpjCpf.csproj.AssemblyReference.cache
+C:\Users\gabid\Documents\Repositorios\Meus\Verificar-Cpf-e-Cnpj\Verificar-Cpf-e-Cnpj\CnpjCpf\obj\Debug\net6.0\CnpjCpf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabid\Documents\Repositorios\Meus\Verificar-Cpf-e-Cnpj\Verificar-Cpf-e-Cnpj\CnpjCpf\obj\Debug\net6.0\CnpjCpf.AssemblyInfoInputs.cache
+C:\Users\gabid\Documents\Repositorios\Meus\Verificar-Cpf-e-Cnpj\Verificar-Cpf-e-Cnpj\CnpjCpf\obj\Debug\net6.0\CnpjCpf.AssemblyInfo.cs
+C:\Users\gabid\Documents\Repositorios\Meus\Verificar-Cpf-e-Cnpj\Verificar-Cpf-e-Cnpj\CnpjCpf\obj\Debug\net6.0\CnpjCpf.csproj.CoreCompileInputs.cache
+C:\Users\gabid\Documents\Repositorios\Meus\Verificar-Cpf-e-Cnpj\Verificar-Cpf-e-Cnpj\CnpjCpf\obj\Debug\net6.0\CnpjCpf.dll
+C:\Users\gabid\Documents\Repositorios\Meus\Verificar-Cpf-e-Cnpj\Verificar-Cpf-e-Cnpj\CnpjCpf\obj\Debug\net6.0\refint\CnpjCpf.dll
+C:\Users\gabid\Documents\Repositorios\Meus\Verificar-Cpf-e-Cnpj\Verificar-Cpf-e-Cnpj\CnpjCpf\obj\Debug\net6.0\CnpjCpf.pdb
+C:\Users\gabid\Documents\Repositorios\Meus\Verificar-Cpf-e-Cnpj\Verificar-Cpf-e-Cnpj\CnpjCpf\obj\Debug\net6.0\CnpjCpf.genruntimeconfig.cache
+C:\Users\gabid\Documents\Repositorios\Meus\Verificar-Cpf-e-Cnpj\Verificar-Cpf-e-Cnpj\CnpjCpf\obj\Debug\net6.0\ref\CnpjCpf.dll
